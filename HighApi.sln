@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighApi", "HighApi\HighApi.csproj", "{DB196339-D22A-433C-95E4-CAB381C5605F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{347F856F-C6C4-4881-983E-45999D10F1F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{7BBA6803-74F2-4468-89D3-31CF7101651A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApi", "ExampleApi\ExampleApi.csproj", "{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB196339-D22A-433C-95E4-CAB381C5605F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB196339-D22A-433C-95E4-CAB381C5605F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB196339-D22A-433C-95E4-CAB381C5605F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB196339-D22A-433C-95E4-CAB381C5605F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB196339-D22A-433C-95E4-CAB381C5605F} = {347F856F-C6C4-4881-983E-45999D10F1F2}
+		{25B7B7D9-1A2D-4A1D-BB04-132C0D19FBB1} = {7BBA6803-74F2-4468-89D3-31CF7101651A}
+	EndGlobalSection
+EndGlobal
