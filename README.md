@@ -1,5 +1,5 @@
 # HighApi
-The easiest way to create a simple api for testing and prototyping with .NET using top level programming feature in C# 9 and abstraction.
+The easiest way to create a simple api for testing and prototyping with .NET using top level programming feature in C# 9 and the power of abstraction.
 
 ## Goal
 * Make it easy to recommand C# and .NET for building restful api's 
