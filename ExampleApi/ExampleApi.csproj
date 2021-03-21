@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\HighApi\HighApi.csproj" />
+      <PackageReference Include="HighApi" Version="0.1.1" />
     </ItemGroup>
 
 </Project>
